@@ -22,3 +22,5 @@ Console.WriteLine(x+y);
 //char -> '\o' ou (U+000)
 // int, double, float e decimal -> 0
 //string null
+
+//ola
